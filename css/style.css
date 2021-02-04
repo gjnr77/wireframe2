@@ -12,7 +12,7 @@
 #wrap #header .wrap .content .right-box #nav {width:720px;text-align:right;margin:50px 25px 0 auto;}
 #wrap #header .wrap .content .right-box #nav .main-btn-wrap {display:inline-block;}
 #wrap #header .wrap .content .right-box #nav .main-btn-wrap > li {float:left;width:180px;text-align:center;}
-#wrap #header .wrap .content .right-box #nav .main-btn-wrap > li .main-btn {display:block;line-height:50px;background:#fee;transition:all .4s;}
+#wrap #header .wrap .content .right-box #nav .main-btn-wrap > li .main-btn {display:block;line-height:50px;background:#edd;transition:all .4s;}
 #wrap #header .wrap .content .right-box #nav .main-btn-wrap > li .main-btn:hover {background:rgba(200,150,150, .3);text-decoration:underline;} 
 /* 서브메뉴 */
 #wrap #header .wrap .content .right-box #nav .main-btn-wrap > li .sub {display:none;}
